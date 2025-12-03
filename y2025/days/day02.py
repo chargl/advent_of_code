@@ -3,6 +3,9 @@
 """
 
 def d2parse(data):
+	"""
+
+	"""
 	line = data[0]
 	result = []
 	split_line = line.split(',')
