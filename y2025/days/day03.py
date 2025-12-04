@@ -1,9 +1,17 @@
+"""
 
+"""
 
 def d3parse(data):
+	"""
+
+	"""
 	return data
 
 def d3p1(data):
+	"""
+
+	"""
 	result = 0
 	for line in data:
 		max = 0
@@ -17,6 +25,9 @@ def d3p1(data):
 	return result
 
 def d3p2(data):
+	"""
+
+	"""
 	result = 0
 	for line in data:
 		batteries = []
