@@ -162,3 +162,5 @@ cython_debug/
 
 # to ignore txt files, use git update-index --assume-unchanged
 # that way they're created on the repo, but will be left empty
+
+data/*
