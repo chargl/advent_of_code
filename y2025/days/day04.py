@@ -44,7 +44,7 @@ def d4p1(data):
 
 def d4p2(data):
 	"""
-
+	will optimize to walk the entire matrix once and then only check @ positions later
 	"""
 	result = 0
 	cont = True
